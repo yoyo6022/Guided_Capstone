@@ -1,1 +1,1 @@
-# Guided Capstone(1st Capstone) @ Springboard
+# Guided Capstone(1st Capstone) 
