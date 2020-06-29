@@ -1,1 +1,1 @@
-# work folder for Springboard
+# Guided Capstone(1st Capstone) @ Springboard
